@@ -3,6 +3,7 @@
 - Instalação do Git no Windows.
 - Configurando o usuário no Git.
 - Instalação do VS Code no Windows.
+- O que é controle de versão.
 
 ---
 
@@ -28,5 +29,15 @@
 - Acessar o site: <https://code.visualstudio.com>
 - [Ou clique aqui:](https://code.visualstudio.com)
 - Seguir as instruções do próprio programa para a instalação.
+
+---
+
+## O que é controle de versão
+
+- Uma técnica que ajuda a **gerenciar o código-fonte** de uma aplicação.
+- Registrando **todas as modificações** de código, podendo também reverter as mesmas.
+- Criar versões de um software em diferentes estágios, poder **alterar facilmente entre elas**.
+- Cada membro da equipe pode trabalhar em uma versão diferente.
+- Há ferramentas para trabalhar o controle de versão como: **Git** e SVN.
 
 ---
