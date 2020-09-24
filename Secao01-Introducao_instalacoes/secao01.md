@@ -4,6 +4,7 @@
 - Configurando o usuário no Git.
 - Instalação do VS Code no Windows.
 - O que é controle de versão.
+- O que é Git.
 
 ---
 
@@ -41,3 +42,15 @@
 - Há ferramentas para trabalhar o controle de versão como: **Git** e SVN.
 
 ---
+
+## O que é Git
+
+- Sistema de controle de versão **mais utilizado no mundo** atualmente.
+- O **Git** é baseado em **repositórios**, que contêm todas as versões do código e também as cópias de cada desenvolvedor.
+- Todas as operações do **Git** são **otimizadas para ter alto desempenho**.
+- Todos os objetos do **Git** são **protegidos com criptografia** para evitar alteração indevidas e maliciosas.
+- O *Git** é um **projeto de código aberto**.
+
+---
+
+- Próxima seção: [Seção 02 - Fundamental](/Secao02-Fundamental/secao02.md)
