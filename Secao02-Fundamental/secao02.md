@@ -3,6 +3,7 @@
 - O que é um reposiório.
 - Criando um repositório.
 - O que é GitHub.
+- Enviando repositório para o GitHub.
 
 ---
 
@@ -30,5 +31,14 @@
 - É um **serviço para gerenciar repositórios**, gratuito e amplamente utilizado.
 - Podemos **enviar nossos projetos** para o GitHub e disponibilizá-lo para outros devs.
 - O GitHub é gratuito tanto para projetos públicos como **privados**.
+
+---
+
+## Enviando repositório para o GitHub
+
+- Podemos facilmente **enviar nossos repositórios** para o GitHub.
+- Precisamos criar o projeto no GitHub, inicializar o mesmo no git em nossa máquina, sincronizar e enviar.
+- Esta sequência é facilmente executada **por poucos comandos**.
+- Vale lembrar que só fazemos **uma vez por projeto** este fluxo.
 
 ---
