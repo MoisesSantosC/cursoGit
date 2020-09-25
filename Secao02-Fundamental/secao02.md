@@ -1,6 +1,7 @@
 # Sobre esta seção
 
 - O que é um reposiório.
+- Criando um repositório.
 
 ---
 
@@ -11,5 +12,14 @@
 - Quando criamos um repositório estamos iniciando um projeto.
 - O repositório pode ir para servidores que são especializados em gerenciar repositórios, como: **GitHub** e **Bitbucket**.
 - Cada um dos desenvolvedores do time pode baixar o repositório e **criar versões diferentes** em sua máquina.
+
+---
+
+## Criando um repositório
+
+- Para criar um repositório utilizamos o comando: `git init`
+- Desta maneira o git vai criar os arquivos necessários para inicializá-lo.
+- Que estão na pasta oculta **.git**.
+- Após este comando o diretório atual **será reconhecido pelo git como um projeto** e responderá aos seus demais comandos.
 
 ---
