@@ -4,6 +4,7 @@
 - Criando um repositório.
 - O que é GitHub.
 - Enviando repositório para o GitHub.
+- Verificando as mudanças do projeto.
 
 ---
 
@@ -40,5 +41,15 @@
 - Precisamos criar o projeto no GitHub, inicializar o mesmo no git em nossa máquina, sincronizar e enviar.
 - Esta sequência é facilmente executada **por poucos comandos**.
 - Vale lembrar que só fazemos **uma vez por projeto** este fluxo.
+
+---
+
+## Verificando as mudanças do projeto
+
+- As mudanças do projeto podem ser verificadas por: `git status`
+- Este comando é utilizado **muito frequentemente**
+- Aqui serão mapeados todas as alterações do projeto.
+- Como: **arquivos não monitorados** e **arquivos modificados**.
+- Podemos também dizer que é a **diferença** do que já está enviado ao servidor ou salvo no projeto.
 
 ---
