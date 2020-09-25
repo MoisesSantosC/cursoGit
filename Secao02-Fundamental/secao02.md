@@ -2,6 +2,7 @@
 
 - O que é um reposiório.
 - Criando um repositório.
+- O que é GitHub.
 
 ---
 
@@ -21,5 +22,13 @@
 - Desta maneira o git vai criar os arquivos necessários para inicializá-lo.
 - Que estão na pasta oculta **.git**.
 - Após este comando o diretório atual **será reconhecido pelo git como um projeto** e responderá aos seus demais comandos.
+
+---
+
+## O que é GitHub
+
+- É um **serviço para gerenciar repositórios**, gratuito e amplamente utilizado.
+- Podemos **enviar nossos projetos** para o GitHub e disponibilizá-lo para outros devs.
+- O GitHub é gratuito tanto para projetos públicos como **privados**.
 
 ---
