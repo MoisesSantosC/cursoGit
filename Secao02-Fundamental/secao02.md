@@ -15,6 +15,7 @@
 - Renomeando arquivos.
 - Desfazendo alterações.
 - Ignorando arquivos no projeto.
+- Desfazendo todas as alterações.
 
 ---
 
@@ -152,5 +153,14 @@
 - Devemos inserir um arquivo chamado `.gitignore` na raiz do projeto.
 - Nele podemos inserir todos os arquivos que não devem entrar no versionamento.
 - Isso é útil para **arquivos gerados automaticamente** ou arquivos que contêm **informações sensíveis**
+
+---
+
+## Desfazendo todas as alterações
+
+- Com o comando `git reset` podemos resetar as mudanças feitas.
+- Geralmente é utilizado com a flag `--hard`
+- Exemplo: `git reset --hard origin/master`
+- Todas as alterações **commitadas** e também as **pendentes** serão excluídas.
 
 ---
