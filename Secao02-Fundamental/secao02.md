@@ -6,6 +6,7 @@
 - Enviando repositório para o GitHub.
 - Verificando as mudanças do projeto.
 - Adicionando arquivos ao projeto.
+- Salvando alterações do projeto.
 
 ---
 
@@ -63,5 +64,16 @@
 - Somente adicionando arquivos eles serão monitorados pelo git.
 - Ou seja, **se não adicionar ele não estará** no controle de versão.
 - É interessante utilizar este comando de tempos em tempos para não perder algo por descuido.
+
+---
+
+## Salvando alterações do projeto
+
+- As alterações salvas do projeto são realizadas por: `git commit`
+- Podemos fazer commits de **arquivos específicos** ou vários de uma vez com a flag `-a`
+- É uma boa prática enviar **uma mensagem a cada commit**, com as alterações que foram feitas.
+- A mensagem pode ser adicionada com a flag `-m`
+- Exemplo de somente um arquivo: `git commit nomeDoArquivo -m "Aqui vai a mensagem do seu commit"`
+- Exemplo de vários arquivos: `git commit -a -m "Aqui vai a mensagem do seu commit"`
 
 ---
