@@ -7,6 +7,7 @@
 - Verificando as mudanças do projeto.
 - Adicionando arquivos ao projeto.
 - Salvando alterações do projeto.
+- Enviando código ao repositório remoto.
 
 ---
 
@@ -75,5 +76,13 @@
 - A mensagem pode ser adicionada com a flag `-m`
 - Exemplo de somente um arquivo: `git commit nomeDoArquivo -m "Aqui vai a mensagem do seu commit"`
 - Exemplo de vários arquivos: `git commit -a -m "Aqui vai a mensagem do seu commit"`
+
+---
+
+## Enviando código ao repositório remoto
+
+- Quando finalizamos uma funcionalidade nova, **enviamos o código ao repositório remoto**, que é o código fonte.
+- Esta ação é feita pelo `git push`
+- Após esta ação **o código do servidor será atualizado baseando-se no código local** enviado.
 
 ---
