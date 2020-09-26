@@ -5,6 +5,7 @@
 - O que é GitHub.
 - Enviando repositório para o GitHub.
 - Verificando as mudanças do projeto.
+- Adicionando arquivos ao projeto.
 
 ---
 
@@ -51,5 +52,16 @@
 - Aqui serão mapeados todas as alterações do projeto.
 - Como: **arquivos não monitorados** e **arquivos modificados**.
 - Podemos também dizer que é a **diferença** do que já está enviado ao servidor ou salvo no projeto.
+
+---
+
+## Adicionando arquivos ao projeto
+
+- Para adicionar arquivos novos a um projeto utilizamos: `git add nomeDoArquivo`
+- Podemos adicionar **um arquivo** específico.
+- Também  podemos adicionar **diversos de uma vez só**: `git add .`
+- Somente adicionando arquivos eles serão monitorados pelo git.
+- Ou seja, **se não adicionar ele não estará** no controle de versão.
+- É interessante utilizar este comando de tempos em tempos para não perder algo por descuido.
 
 ---
