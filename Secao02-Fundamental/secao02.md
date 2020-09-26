@@ -10,6 +10,7 @@
 - Enviando código ao repositório remoto.
 - Recebendo as mudanças.
 - Clonando repositórios.
+- Removendo arquivos do repositório.
 
 ---
 
@@ -103,5 +104,14 @@
 - Para esta ação utilizamos `git clone aquiVaiURLDoRepositorio`
 - Passando a **referência** do repositório remoto.
 - Este comando é utilizado quando **entramos em um novo projeto**, por exemplo.
+
+---
+
+## Removendo arquivos do repositório
+
+- Os arquivos **podem ser deletados da monitoração** do git.
+- O comando para deletar é `git rm nomeDoArquivo`
+- Após deletar um arquivo do git ele não terá mais suas atualizações consideradas pelo git.
+- Apenas quando for adicionando novamente pelo `git add`
 
 ---
