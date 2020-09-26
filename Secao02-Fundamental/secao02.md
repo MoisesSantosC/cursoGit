@@ -14,6 +14,7 @@
 - Histórico de alterações.
 - Renomeando arquivos.
 - Desfazendo alterações.
+- Ignorando arquivos no projeto.
 
 ---
 
@@ -142,5 +143,14 @@
 - O comando utilizado é o `git checkout nomeDoArquivo`
 - Após a utilização do mesmo o arquivo sai do staging;
 - Caso seja feita uma próxima alteração, ele entra em staging novamente.
+
+---
+
+## Ignorando arquivos no projeto
+
+- Uma técnica muito utilizada é **ignorar arquivos do projeto**
+- Devemos inserir um arquivo chamado `.gitignore` na raiz do projeto.
+- Nele podemos inserir todos os arquivos que não devem entrar no versionamento.
+- Isso é útil para **arquivos gerados automaticamente** ou arquivos que contêm **informações sensíveis**
 
 ---
