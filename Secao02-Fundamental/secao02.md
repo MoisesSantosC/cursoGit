@@ -11,6 +11,7 @@
 - Recebendo as mudanças.
 - Clonando repositórios.
 - Removendo arquivos do repositório.
+- Histórico de alterações.
 
 ---
 
@@ -113,5 +114,13 @@
 - O comando para deletar é `git rm nomeDoArquivo`
 - Após deletar um arquivo do git ele não terá mais suas atualizações consideradas pelo git.
 - Apenas quando for adicionando novamente pelo `git add`
+
+---
+
+## Histórico de alterações
+
+- Podemos **acessar um log** de modificações feitas no projeto.
+- O comando para este recurso é `git log`
+- Você receberá uma informação dos **commits realizados** no projeto até então.
 
 ---
