@@ -9,6 +9,7 @@
 - Salvando alterações do projeto.
 - Enviando código ao repositório remoto.
 - Recebendo as mudanças.
+- Clonando repositórios.
 
 ---
 
@@ -93,5 +94,14 @@
 - É comum também ter que **sincronizar o local** com as mudanças do remoto.
 - Esta ação é feita pelo `git pull`
 - Após o comando serão **buscadas atualizações**, se encontradas elas **serão unidas ao código atual** existente na nossa máquina.
+
+---
+
+## Clonando repositórios
+
+- O ato de baixar um repositório de um servidor remoto é chamado de **clonar repositório**.
+- Para esta ação utilizamos `git clone aquiVaiURLDoRepositorio`
+- Passando a **referência** do repositório remoto.
+- Este comando é utilizado quando **entramos em um novo projeto**, por exemplo.
 
 ---
