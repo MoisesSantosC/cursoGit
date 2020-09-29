@@ -164,3 +164,5 @@
 - Todas as alterações **commitadas** e também as **pendentes** serão excluídas.
 
 ---
+
+- Próxima seção: [Seção 03 - Trabalhando com Branches](/Secao03-Trabalhando_Branches/secao03.md)
