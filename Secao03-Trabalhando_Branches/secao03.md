@@ -3,6 +3,7 @@
 - O que é um branch
 - Criando e visualizando o brach
 - Deletando branches
+- Mudando de branch
 
 ---
 
@@ -28,5 +29,14 @@
 - **Não é comum deletar um branch**, normalmente é guardado o histórico do trabalho.
 - Geralmente se usa o **delete** quando o branch foi criado errado.
 - Exemplo: `git branch --delete nomeDaBranch`
+
+---
+
+## Mudando de branch
+
+- Podemos mudar para outro branch utilizando o comando `git checkout nomeDaBranch`
+- Podemos mudar para outro branch e criar esse branch ao mesmo tempo: `git branch -b nomeDaBranch`
+- Este comando também é utilizado para dispensar mudanças de um arquivo.
+- Alterando o branch podemos levar alterações que não foram commitadas junto, **tome cuidado**.
 
 ---
