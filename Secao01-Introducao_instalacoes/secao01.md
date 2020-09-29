@@ -19,8 +19,8 @@
 ## Configurando o usuário no Git
 
 - Abra o Git Bash.
-- Comando para configurar seu email: `git --global user.email "seuemail@vaiaqui.com"`
-- Comando para configurar seu usuário: `git --global user.name "Seu nome vai aqui"`
+- Comando para configurar seu email: `git config --global user.email "seuemail@vaiaqui.com"`
+- Comando para configurar seu usuário: `git config --global user.name "Seu nome vai aqui"`
 - **Sem configurar seu usuário no Git, não irá conseguir add programas e nem fazer commits para o GitHub**.
 
 ---
@@ -28,7 +28,6 @@
 ## Instalação do VS Code no Windows
 
 - Acessar o site: <https://code.visualstudio.com>
-- [Ou clique aqui:](https://code.visualstudio.com)
 - Seguir as instruções do próprio programa para a instalação.
 
 ---
@@ -49,7 +48,7 @@
 - O **Git** é baseado em **repositórios**, que contêm todas as versões do código e também as cópias de cada desenvolvedor.
 - Todas as operações do **Git** são **otimizadas para ter alto desempenho**.
 - Todos os objetos do **Git** são **protegidos com criptografia** para evitar alteração indevidas e maliciosas.
-- O *Git** é um **projeto de código aberto**.
+- O **Git** é um **projeto de código aberto**.
 
 ---
 
