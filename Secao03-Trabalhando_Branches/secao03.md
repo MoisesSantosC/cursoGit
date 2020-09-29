@@ -2,6 +2,7 @@
 
 - O que é um branch
 - Criando e visualizando o brach
+- Deletando branches
 
 ---
 
@@ -18,5 +19,14 @@
 
 - Para visualizar os branches disponíveis basta digitar `git branch`
 - Para criar um branch você pode utilizar o comando `git branch nomeDaBranch`
+
+---
+
+## Deletando branches
+
+- Podemos deletar um branch com a flag `-d` ou `--delete`
+- **Não é comum deletar um branch**, normalmente é guardado o histórico do trabalho.
+- Geralmente se usa o **delete** quando o branch foi criado errado.
+- Exemplo: `git branch --delete nomeDaBranch`
 
 ---
