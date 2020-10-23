@@ -57,3 +57,11 @@
 - Podemos verificar as stashes criadas pelo comando: `git stash list`
 
 ---
+
+## Recuperando stash
+
+- Podemos recuperar o stash com o comando: `git stash apply aquiVaiONumeroDaStash`
+- Desta maneira podemos continuar de onde paramos com os arquivos adicionados a stash.
+- Para ver a diferença dos stashes basta usar o comando: `git stash show -p aquiVaiONumeroDaStash`
+
+---
