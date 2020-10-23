@@ -85,3 +85,13 @@
 - Desta meneira podemos retroceder ou avançar em checkpoints de um branch.
 
 ---
+
+## Enviando e compartilhando tags
+
+- As tags podem ser **enviadas para o repositório de código**, sendo compartilhada entre os desenvolvedores.
+- O comando utilizado é `git push origin nomeDaTag`
+- Ou se quiser enviar todas as tags `git push origin --tags`
+
+---
+
+- Próxima seção: [Compartilhamento e atualização de repositórios](/Secao04-Compartilhamento_atualização/secao04.md)
