@@ -48,3 +48,12 @@
 - Normalmente é por meio dele que recebemos as atualizações de outros desenvolvedores.
 
 ---
+
+## Stash
+
+- Podemos salvas as modificações atuais **para prosseguir com uma outra abordagem de solução** e não perder o código.
+- O comando para esta ação é o `git stash`
+- Após o comando, o branch será resetado para a sua versõ de acordo com o repositório.
+- Podemos verificar as stashes criadas pelo comando: `git stash list`
+
+---
