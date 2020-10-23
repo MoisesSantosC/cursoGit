@@ -65,3 +65,10 @@
 - Para ver a diferença dos stashes basta usar o comando: `git stash show -p aquiVaiONumeroDaStash`
 
 ---
+
+## Removendo a stash
+
+- Para limpar totalmente as stashes de um branch podemos utilizar o comando `git stash clear`
+- Caso seja necessário deletar uma stash específica podemos utilizar `git stash drop aquiVaiONumeroDaStash`
+
+---
