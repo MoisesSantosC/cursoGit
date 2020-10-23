@@ -1,10 +1,6 @@
 # Sobre esta seção
 
-- O que é um branch
-- Criando e visualizando o brach
-- Deletando branches
-- Mudando de branch
-- Unindo Branches
+- Aqui irá ficar todos os tópicos abordados na terceira seção do curso.
 
 ---
 
@@ -70,5 +66,14 @@
 
 - Para limpar totalmente as stashes de um branch podemos utilizar o comando `git stash clear`
 - Caso seja necessário deletar uma stash específica podemos utilizar `git stash drop aquiVaiONumeroDaStash`
+
+---
+
+## Utilizando tags
+
+- Podemos criar tags nos branches por meio do comando `git tag -a nomeDaTag -m mensagemSobreATag`
+- A tag é diferente do stash, serve como um **checkpoint de um branch**.
+- É utilizado para demarcar estágios do desenvolvimento de algum recurso.
+- Para visualizar as tags, usa o comando: `git tag`
 
 ---
