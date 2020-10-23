@@ -77,3 +77,11 @@
 - Para visualizar as tags, usa o comando: `git tag`
 
 ---
+
+## Verificando e alterando tags
+
+- Podemos verificar uma tag com o comando `git show nomeDaTag`
+- Podemos trocar de tags com o comando `git checkout nomeDaTag`
+- Desta meneira podemos retroceder ou avançar em checkpoints de um branch.
+
+---
