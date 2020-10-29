@@ -3,6 +3,7 @@
 - Encontrando branches
 - Recebendo alterações
 - Enviando alterações
+- Utilizando o remote
 
 ---
 
@@ -27,5 +28,14 @@
 - O comando `git push` faz o inverso do pull, ele envia as alterações para o repositório remoto.
 - Serve também para **enviar as atualizações de um branch específico** para um outro desenvolvedor.
 - Ou quando terminamos uma tarefa e precisamos enviar ao repositório.
+
+---
+
+## Utilizando o remote
+
+- Com o comando `git remote` podemos fazer algumas ações como: adicionar um repositório para trackear ou remover.
+- Quando criamos um repositório remoto, adicionamos ele ao git com `git remote add origin linkDoRepositório`
+- Com o `git remote -v` podemos verificar as origins para darmos o fetch ou o push.
+- Para remover `git remote rm origin`
 
 ---
