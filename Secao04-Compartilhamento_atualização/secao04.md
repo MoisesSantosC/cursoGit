@@ -5,6 +5,7 @@
 - Enviando alterações
 - Utilizando o remote
 - Trabalhando com submódulos
+- Atualizando submódulos
 
 ---
 
@@ -49,3 +50,13 @@
 - Para verificar os submódulos o comando é `git submodule`
 
 ---
+
+## Atualizando submódulos
+
+- Para atualizar um submódulo primeiro devemos fazer o **commit das mudanças**
+- Para enviar para o repositório do submódulo utilizamos `git push --recurse--submodules=on-demand`
+- Este fluxo fará a atualização apenas do submódulo.
+
+---
+
+- Próxima seção [Seção 05 - Analise e inspeção de repositórios](/Secao05-Analise_inspecao/secao05.md)
