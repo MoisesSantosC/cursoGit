@@ -4,6 +4,7 @@
 - Recebendo alterações
 - Enviando alterações
 - Utilizando o remote
+- Trabalhando com submódulos
 
 ---
 
@@ -37,5 +38,14 @@
 - Quando criamos um repositório remoto, adicionamos ele ao git com `git remote add origin linkDoRepositório`
 - Com o `git remote -v` podemos verificar as origins para darmos o fetch ou o push.
 - Para remover `git remote rm origin`
+
+---
+
+## Trabalhando com submódulos
+
+- Submódulos é a maneira que temos de possuir **dois ou mais projetos em um só repositório**
+- Podemos adicionar uma dependência ao nosso projeto atual, porém mantendo suas estruturas separadas.
+- Para adicionar o submódulo utilizamos o comando `git submodule add nomeDoRepositório`
+- Para verificar os submódulos o comando é `git submodule`
 
 ---
