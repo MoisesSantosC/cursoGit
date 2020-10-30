@@ -2,6 +2,7 @@
 
 - Exibindo informações
 - Exibindo diferenças
+- Log resumido
 
 ---
 
@@ -21,3 +22,13 @@
 - Podemos também verificar a diferença entre arquivos `git diff nomeDoPrimeiroArquivo nomeDoSegundoArquivo`
 
 ---
+
+## Log resumido
+
+- O comando `git shortlog` nos dá um log resumido do projeto.
+- Cada commit será unido ´por **nome do autor**.
+- Podemos então saber quais commits foram enviados ao projeto e por quem.
+
+---
+
+- Próxima seção [Seção 06 - Administração de repositório](/Secao06-Administracao_repositorio/secao06.md)
